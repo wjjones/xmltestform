@@ -1,0 +1,3 @@
+﻿https://www.foxdeploy.com/blog/progressive-automation-pt-ii-powershell-guis.html
+https://stackoverflow.com/questions/66079840/display-a-little-wpf-form-with-powershell
+https://www.bing.com/search?q=powershell+build+wpf+form+with+visual+studio&form=ANSPH1&refig=1b268090d6d9428a8b1e6a3f2e30eb38&pc=U531
